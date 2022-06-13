@@ -1,0 +1,16 @@
+[{
+	"id": 1,
+    "campaign": "Posventa"
+}, {
+	"id": 2,
+    "campaign": "Atención al Cliente"
+}, {
+	"id": 3,
+    "campaign": "Ventas"
+}, {
+	"id": 4,
+    "campaign": "Cobranza"
+}, {
+	"id": 5,
+    "campaign": "Help Desk"
+}]
